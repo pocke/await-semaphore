@@ -1,5 +1,5 @@
 {
-  "name": "await-semaphore",
+  "name": "@pocke/await-semaphore",
   "version": "0.1.3",
   "description": "Awaitable semaphore/mutex",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/notenoughneon/await-semaphore.git"
+    "url": "git+https://github.com/pocke/await-semaphore.git"
   },
   "keywords": [
     "promise",
@@ -21,9 +21,9 @@
   "author": "Emma Kuo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/notenoughneon/await-semaphore/issues"
+    "url": "https://github.com/pocke/await-semaphore/issues"
   },
-  "homepage": "https://github.com/notenoughneon/await-semaphore#readme",
+  "homepage": "https://github.com/pocke/await-semaphore#readme",
   "types": "index.d.ts",
   "devDependencies": {
     "@types/mocha": "^5.2.4",
